@@ -1,1 +1,1 @@
-'Code fury'
+'Code fury is fun'
